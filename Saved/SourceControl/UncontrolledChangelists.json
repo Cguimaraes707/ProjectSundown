@@ -5,14 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/cguim/Desktop/ProjectSundown/Content/Blueprints/BlueprintSplitscreenGamemode.uasset",
-				"C:/Users/cguim/Desktop/ProjectSundown/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"C:/Users/cguim/Desktop/ProjectSundown/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/TF/EXNQVY8P41ZXZRVX1PZI85.uasset",
 				"C:/Users/cguim/Desktop/ProjectSundown/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8K/2VV5SCI8OIJGCE096SA4QQ.uasset",
 				"C:/Users/cguim/Desktop/ProjectSundown/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/cguim/Desktop/ProjectSundown/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/cguim/Desktop/ProjectSundown/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/cguim/Desktop/ProjectSundown/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_player2.uasset"
+				"C:/Users/cguim/Desktop/ProjectSundown/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_player2.uasset",
+				"C:/Users/cguim/Desktop/ProjectSundown/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/73/LGJX95X6YB8FG317YSMIF7.uasset",
+				"C:/Users/cguim/Desktop/ProjectSundown/Content/Blueprints/BlueprintSplitscreenGamemode.uasset",
+				"C:/Users/cguim/Desktop/ProjectSundown/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
 			]
 		}
 	]
